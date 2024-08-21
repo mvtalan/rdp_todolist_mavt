@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "655059074478",
+    "project_id": "rdp-todolist-mavt",
+    "storage_bucket": "rdp-todolist-mavt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:655059074478:android:2177aa1eae7b1d1a1e5c3f",
+        "android_client_info": {
+          "package_name": "com.todolist.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVUeWk_GEMqKiLeCrlilL5D0a5a7Bkjx0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
